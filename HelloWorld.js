@@ -6,4 +6,4 @@ let storeDesctiption = {
     open: true
 };
 
-console.log(storeDesctiption.employees[0], storeDesctiption.products.pen)
+console.log(storeDesctiption.employees[0], storeDesctiption.products.pen, storeDesctiption.products.pencil);
